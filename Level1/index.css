@@ -1,0 +1,14 @@
+/* this is heading style */
+h1{
+    color: blue;
+}
+#heading{
+    color: darkgreen;
+}
+.paragraph{
+    color: brown;
+}
+
+#first,#second{
+    color: chartreuse;
+}
